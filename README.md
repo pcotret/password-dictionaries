@@ -1,3 +1,3 @@
 # password-dictionaries
 Dictionaries extracted from a Kali distro.
-Update: 2020-09-16.
+Update: 2023-10-27.
